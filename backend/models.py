@@ -3,7 +3,7 @@ from typing import Optional
 from sqlalchemy import Column, Integer, String
 from database import Base
 
-class Pill(BaseModel):
+class PillSchema(BaseModel):
     id: int
     name: str
     dosage: str
