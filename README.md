@@ -9,7 +9,7 @@ Planned: symptom and side-effect logging, caregiver mode, and a pattern recognit
 Tech Stack
 
 Backend: Python, FastAPI, SQLite
-Frontend: React, TypeScript
+Frontend: Next.js, TypeScript
 Other: Pydantic for request validation, SQLAlchemy for ORM
 
 API Endpoints
